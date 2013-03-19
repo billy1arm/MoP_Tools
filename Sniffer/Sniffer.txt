@@ -1,0 +1,8 @@
+Sniffer for WoW 5.2 (16709)
+
+How to use it:
+1. Put it on your wow directory.
+2. Start wow.exe (32 bits only).
+3. Start attach_sniffer.cmd
+
+Thanks TrinityCore, especially Aokromes and Shauren for publishing and contributing this.

@@ -1,0 +1,7 @@
+WoWPacketParser
+
+WoWPacketParser is a tool to convert sniffs.
+
+How to use it:
+1. Simply drag and drop file on WoWPacketParser.exe
+2. Any other settings are changing in WoWPacketParser.exe.config

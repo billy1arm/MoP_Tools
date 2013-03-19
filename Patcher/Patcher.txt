@@ -1,0 +1,5 @@
+WoW 5.2 Patcher
+
+Tool using to patch wow.exe file. You can use GUI or CMD version.
+
+Thanks Arctium team for writing this and especially mansemino for updating this.
